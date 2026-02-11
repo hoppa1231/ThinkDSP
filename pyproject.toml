@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "thinkdsp"
+name = "thinkdsp-kim"
 version = "0.1.0"
 description = "DSP utilities from the Think DSP book"
 authors = ["Allen Downey <allen.downey@olin.edu>"]
