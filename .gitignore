@@ -1,1 +1,25 @@
 .ipynb_checkpoints/
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.python-version
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+
+# Packaging/build
+build/
+dist/
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Poetry
+poetry.lock
