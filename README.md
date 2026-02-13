@@ -12,8 +12,7 @@
 
 This repository packages the `thinkdsp` code from *Think DSP* by Allen B. Downey.
 Original code and copyright remain with the author under the MIT License.
-This packaging fork is maintained by `hoppa1231` and is not affiliated with the
-original author or publisher.
+Packaging maintenance updates are contributed by `Kim Maxim`.
 
 The premise of this book (and the other books in the Think X series) is that if you know how to program, you can use that skill to learn other things. I am writing this book because I think the conventional approach to digital signal processing is backward: most books (and the classes that use them) present the material bottom-up, starting with mathematical abstractions like phasors.
 
